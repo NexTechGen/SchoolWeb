@@ -125,7 +125,7 @@ header .nav-item .nav-link {
 
     .hero .carousel-item img {
         width: 100vw;
-        height: 100vh;
+        height: 70vh;
         object-fit: cover;
     }
 
